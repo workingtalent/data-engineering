@@ -1,7 +1,7 @@
 Hello
 
 Brian
-Thom
+Thom * 2
 Aniek
 Brian
 jory

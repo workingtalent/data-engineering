@@ -3,4 +3,9 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo hello
+      - cat dataSets/randomData.json
+      #- python3 transformData.py dataSets/randomData.json
+
+artifacts:
+  files:
+    - target/dataProcessed.json
